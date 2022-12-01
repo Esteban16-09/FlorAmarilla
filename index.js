@@ -1,8 +1,8 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Se que hoy 20 de septiembre tendrás un examen y estoy 100% seguro que saldrá de maravilla te conozco y se que lo vas a hacer bien eres alguien que se esfuerza y da todo de si, y se que prefieres una flor amarilla real, pero te entrego esta imagen con una flor amarilla de mi juego favorito, me gustaría darte un ramo completo con flores amarillas pero ya llegara ese día, pero no me olvidare de tus flores amarillas, yo no se lo que tenga que pasar mañana o mas tarde pero créeme que si tengo que cruzar el fin del mundo para conseguirte una flor amarilla, si es para ti créeme que lo hare.')
-    alert('Eres la persona que me hace muy feliz')
+    alert('Cada día que pasa te amo más y más, y también te extraño como no tienes idea. Quiero que sepas que te amare y respetare cada día de mi vida, sé que tu corazón ah paso por muchas cosas que te hicieron pensar que todo era una tormenta pero ya no más, porque por mas que sea larga una tormenta o parezca imposible quiero que sepas que yo estoy acá para ti  las 24/7 de los 365 días del año, no importa si llueve o truene o la tierra se parta en mil pedazos yo siempre estaré a tu lado amándote y apoyándote y voy a protegerte y nadie va a tocarte por que yo te cuidare siempre, aunque no sea perfecto te amo de la manera mas perfecta ya que me gustas demasiado mami, y mi mayor sueño es despertar a tu lado y verte cada mañana por el resto de mi vida y si hay vida después de la muerte quiero pasarlo a tu lado.')
+    alert('Eres la persona que me hace muy feliz y que amo mucho con toda mi alma 20dcm')
 });
 
 const noBtn = document.querySelector('#noBtn');
